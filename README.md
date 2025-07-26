@@ -1,4 +1,4 @@
 # harmonyrepo
-This is my first git repository.
+Hospital Management System (Harmony) - Java
 <br/>
-Author : Gayatri Pardeshi Developer
+The Hospital Management System is a Java-based full stack project that automates key hospital operations, including patient management, doctor scheduling, appointment booking,database management, and user interface design. It ensures efficient, responsive, and error-free workflows across all modules.
